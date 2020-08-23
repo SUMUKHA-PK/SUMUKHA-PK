@@ -6,6 +6,7 @@ I'm Sumukha, currently a software engineer in Walmart Global Tech, Bangalore. I 
 💬 Ask me about anything that'd provoke a thought in me :D  
 📫 How to reach me - sumukhapk46@gmail.com
 
+[![Sumukha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUMUKHA-PK)](https://github.com/SUMUKHA-PK)
 
 <!--
 **SUMUKHA-PK/SUMUKHA-PK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
