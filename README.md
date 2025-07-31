@@ -1,5 +1,5 @@
 Hey there.
-I'm Sumukha, currently a software engineer in Walmart Global Tech, Bangalore. I love working with distributed systems and implementing new services, mostly in Go - as you can see from my pinned repositories :P  
+I'm Sumukha, currently a software engineer in Microsoft, India. I love working with distributed systems and implementing new services, mostly in Go - as you can see from my pinned repositories :P  
 👯 I’m always looking to do something new and collaborate with people and increase my knowledge in what I'm interested in.  
 🔭 I’m currently working on a **distributed database - xdb** and a **distributed lock service - LocKey**, find both in the organisations I'm part of.  
 🌱 I’m currently learning how to write beautiful systems in Go and scale them well.  
